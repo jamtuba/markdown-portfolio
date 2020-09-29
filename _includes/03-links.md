@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[My awesom static website](https://jamtuba.github.io/markdown-portfolio/)
