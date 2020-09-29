@@ -1,14 +1,9 @@
+
 ---
 layout: default
 ---
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+1. first
+2. second
+3. third
+    1. extra
